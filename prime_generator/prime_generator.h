@@ -1,0 +1,1 @@
+int prime_generator(int primes[], int primes_size);
